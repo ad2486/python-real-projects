@@ -26,8 +26,4 @@ It demonstrates basic Python concepts such as user input, conditional statements
 
 ---
 
-## Usage
 
-### Mark 1
-```bash
-python calc_mark1.py
