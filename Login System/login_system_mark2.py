@@ -1,3 +1,7 @@
+'''
+Chat Gpt made me learn some things like while not, but is the same as while login == False that I used before, but using 'and' and 'or' made the code more understandable
+In mark1 I tried using both and just made shit, a lot of logic errors bc they didnt work like i thought
+'''
 login = False
 
 while not login:
