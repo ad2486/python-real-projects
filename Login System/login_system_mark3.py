@@ -1,3 +1,8 @@
+"""
+In this project, I learned that using a dictionary to store user data makes the code much more compact and easier to understand, instead of writing multiple conditions like "if user == 'admin'" every time.
+
+Here, I compare the login credentials with the dictionary, rather than checking against fixed strings repeatedly.
+"""
 users = {
     'admin': 'adminpassword123',
     'user': 'userpassword123'
