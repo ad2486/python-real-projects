@@ -4,18 +4,14 @@ This repository contains real-world projects I built while learning Python.
 
 ## Projects
 
-### Task Manager CLI
-A terminal-based task manager with save/load system.
+### Login System
+A terminal-based login authenticator that works when you have the data needed
 
-- Add tasks
-- Remove tasks
-- Save to file
+### Calculator
+A simple calculator, with 3 versions, getting better each time
 
-### File Organizer
-Automatically organizes files into folders based on type.
-
-### Simple API
-Basic API built with Flask.
+### Rock, Paper, Scissors
+A simple rock, paper, scissors 
 
 ## Goals
 - Improve problem-solving
