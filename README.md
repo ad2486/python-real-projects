@@ -17,3 +17,6 @@ A simple rock, paper, scissors
 - Improve problem-solving
 - Build useful tools
 - Learn backend development
+
+## Observations
+- Some codes are made with portuguese because it's better to write than english in my personal case
